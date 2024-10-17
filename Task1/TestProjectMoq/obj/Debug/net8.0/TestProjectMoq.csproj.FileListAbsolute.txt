@@ -1,0 +1,17 @@
+F:\University\TESTS\task1\Task1\TestProjectMoq\bin\Debug\net8.0\appsettings.Development.json
+F:\University\TESTS\task1\Task1\TestProjectMoq\bin\Debug\net8.0\appsettings.json
+F:\University\TESTS\task1\Task1\TestProjectMoq\bin\Debug\net8.0\TestProjectMoq.deps.json
+F:\University\TESTS\task1\Task1\TestProjectMoq\bin\Debug\net8.0\TestProjectMoq.runtimeconfig.json
+F:\University\TESTS\task1\Task1\TestProjectMoq\obj\Debug\net8.0\TestProjectMoq.GeneratedMSBuildEditorConfig.editorconfig
+F:\University\TESTS\task1\Task1\TestProjectMoq\obj\Debug\net8.0\TestProjectMoq.AssemblyInfoInputs.cache
+F:\University\TESTS\task1\Task1\TestProjectMoq\obj\Debug\net8.0\TestProjectMoq.AssemblyInfo.cs
+F:\University\TESTS\task1\Task1\TestProjectMoq\obj\Debug\net8.0\staticwebassets.build.json
+F:\University\TESTS\task1\Task1\TestProjectMoq\obj\Debug\net8.0\staticwebassets.development.json
+F:\University\TESTS\task1\Task1\TestProjectMoq\obj\Debug\net8.0\staticwebassets\msbuild.TestProjectMoq.Microsoft.AspNetCore.StaticWebAssets.props
+F:\University\TESTS\task1\Task1\TestProjectMoq\obj\Debug\net8.0\staticwebassets\msbuild.build.TestProjectMoq.props
+F:\University\TESTS\task1\Task1\TestProjectMoq\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TestProjectMoq.props
+F:\University\TESTS\task1\Task1\TestProjectMoq\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TestProjectMoq.props
+F:\University\TESTS\task1\Task1\TestProjectMoq\obj\Debug\net8.0\staticwebassets.pack.json
+F:\University\TESTS\task1\Task1\TestProjectMoq\obj\Debug\net8.0\scopedcss\bundle\TestProjectMoq.styles.css
+F:\University\TESTS\task1\Task1\TestProjectMoq\obj\Debug\net8.0\TestProjectMoq.csproj.CopyComplete
+F:\University\TESTS\task1\Task1\TestProjectMoq\obj\Debug\net8.0\TestProjectMoq.genruntimeconfig.cache

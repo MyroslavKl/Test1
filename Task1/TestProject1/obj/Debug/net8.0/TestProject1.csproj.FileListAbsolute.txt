@@ -1,0 +1,14 @@
+F:\University\TESTS\task1\Task1\TestProject1\bin\Debug\net8.0\TestProject1.deps.json
+F:\University\TESTS\task1\Task1\TestProject1\bin\Debug\net8.0\TestProject1.runtimeconfig.json
+F:\University\TESTS\task1\Task1\TestProject1\obj\Debug\net8.0\TestProject1.GeneratedMSBuildEditorConfig.editorconfig
+F:\University\TESTS\task1\Task1\TestProject1\obj\Debug\net8.0\TestProject1.AssemblyInfoInputs.cache
+F:\University\TESTS\task1\Task1\TestProject1\obj\Debug\net8.0\TestProject1.AssemblyInfo.cs
+F:\University\TESTS\task1\Task1\TestProject1\obj\Debug\net8.0\TestProject1.genruntimeconfig.cache
+F:\University\TESTS\task1\Task1\TestProject1\bin\Debug\net8.0\TestProject1.exe
+F:\University\TESTS\task1\Task1\TestProject1\bin\Debug\net8.0\TestProject1.dll
+F:\University\TESTS\task1\Task1\TestProject1\bin\Debug\net8.0\TestProject1.pdb
+F:\University\TESTS\task1\Task1\TestProject1\obj\Debug\net8.0\TestProject1.csproj.CoreCompileInputs.cache
+F:\University\TESTS\task1\Task1\TestProject1\obj\Debug\net8.0\TestProject1.dll
+F:\University\TESTS\task1\Task1\TestProject1\obj\Debug\net8.0\refint\TestProject1.dll
+F:\University\TESTS\task1\Task1\TestProject1\obj\Debug\net8.0\TestProject1.pdb
+F:\University\TESTS\task1\Task1\TestProject1\obj\Debug\net8.0\ref\TestProject1.dll

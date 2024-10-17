@@ -1,0 +1,7 @@
+﻿dotnet add package coverlet.msbuild
+dotnet test --collect:"XPlat Code Coverage"
+dotnet tool install --global dotnet-reportgenerator-globaltool
+reportgenerator -reports:"coverage.opencover.xml" -targetdir:"coveragereport"
+
+dotnet tool install -g dotnet-stryker
+dotnet stryker
